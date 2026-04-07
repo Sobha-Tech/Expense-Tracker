@@ -1,6 +1,7 @@
 # Expense Tracker
 
-This is a simple Python project to track daily expenses.
+This project is a simple Expense Tracker built using Python. It allows users to add daily expenses, categorize them, and view total spending. The project is designed to demonstrate basic Python concepts like lists, loops, functions, and user input handling.
+
 
 ## Features
 - Add expense
@@ -15,5 +16,3 @@ python expense_tracker.py
 
 ## Author
 Sobha
-
-This project is a simple Expense Tracker built using Python. It allows users to add daily expenses, categorize them, and view total spending. The project is designed to demonstrate basic Python concepts like lists, loops, functions, and user input handling.
